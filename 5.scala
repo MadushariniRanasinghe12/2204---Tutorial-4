@@ -15,6 +15,6 @@ def main(args:Array[String]) = {
     println(formatNames("Benny")(toUpper(_)))
     println(formatNames("Niroshan")(toLower(_)))
     println(formatNames("Saman")(toLower(_)))
-    println(formatNames("KuMara")(toUpper(_)))
+    println(formatNames("Kumara")(toUpper(_)))
 
 }
